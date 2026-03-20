@@ -1,4 +1,4 @@
-## 👋 Hey, I’m Rohit Verma
+## 👋 Hey, I’m Rohit
 
 I'm a Software Engineer specializing in **Cloud Infrastructure, DevOps, and AI-driven solutions**. I currently work at **Capgemini** in the Cloud Infrastructure Services team, where I focus on **AWS Cloud, DevOps practices, CI/CD automation, and scalable system operations**.
 
